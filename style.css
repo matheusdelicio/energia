@@ -5,6 +5,11 @@ body{
     background-color: #070707;
 }
 /* usa esse para colocar comentario no css*/
+h1{
+    color:rgb(60, 255, 0);
+    text-align:right;
+    font-size:30px;
+}
 h2{
     color:blue;
     text-align:right;
